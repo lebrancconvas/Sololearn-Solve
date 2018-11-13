@@ -1,0 +1,12 @@
+{
+  "name": "sololearn",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test" : "jest"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^23.6.0"
+  }
+}
